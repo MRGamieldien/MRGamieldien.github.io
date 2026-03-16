@@ -1,5 +1,9 @@
 # Mogammad Redah Gamieldien
 
+
+<img src="CVPic.jpg" width="200">
+
+
 ## Contact Information
 📍 234 12th Avenue Kensington  
 📧 222641681@mycput.ac.za  
