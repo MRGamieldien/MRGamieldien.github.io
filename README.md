@@ -58,7 +58,9 @@ stored information.
 -  Designed user interface components and incorporated 
 input validation and error handling to enhance usability and 
 system reliability.
+
 ---
+
 
 ## References
 ***Bhadra Ranchod*** 
