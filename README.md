@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-📍 Kensington, Cape Town • 📞 022544200 • 📧 222641681@mycput.ac.za • 
+📍 Kensington, Cape Town • 📞 072 272 1910 • 📧 222641681@mycput.ac.za • 
 <a href="https://www.linkedin.com/in/mogammadredah-gamieldien-06544a264">LinkedIn</a>
 </p>
 
