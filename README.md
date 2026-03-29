@@ -50,40 +50,6 @@ My goal is to gain practical industry experience, strengthen my software develop
 **Diploma in ICT – Applications Development**  
 2024 – Present
 
-
----
-
-## Projects
-
-💼 Projects
-📚 Student Management System (Java Desktop Application)
-<p> <img src="https://img.shields.io/badge/Java-Swing-orange"> <img src="https://img.shields.io/badge/SQL-Database-green"> <img src="https://img.shields.io/badge/OOP-Design-blue"> </p>
-
-Description
-
-A desktop-based Student Management System developed as part of a collaborative team project. The application was designed to manage and organize student records efficiently through a user-friendly interface.
-
-Key Features & Contributions
-
-👨‍💻 Collaborated within a development team to design and implement the system.
-
-🧱 Applied Object-Oriented Programming (OOP) principles to build modular and maintainable code.
-
-🗄 Integrated an SQL database for reliable data storage and efficient retrieval of student records.
-
-🔎 Implemented search functionality to quickly locate student information.
-
-🖥 Designed interactive graphical user interfaces using Java Swing.
-
-🛡 Implemented input validation and error handling to improve system stability and user experience.
-
-Technologies Used
-
-Java • Java Swing • SQL • Object-Oriented Programming
-
-🔗 **GitHub Repository:**  
-[Student Enrolment Project](https://github.com/MRGamieldien/Student-Enrolment-Project.git)
-
 ---
 
 ## References
