@@ -51,15 +51,3 @@ My goal is to gain practical industry experience, strengthen my software develop
 2024 – Present
 
 ---
-
-## References
-
-# Bhadra Ranchod
-Cape Peninsula University of Technology  
-📧 ranchodb@cput.ac.za  
-📞 Contact: 082 495 9912
-
-# Richard Maliwatu 
-Cape Peninsula University of Technology  
-📧 maliwatur@cput.ac.za  
-📞 Contact: 071 077 9922
