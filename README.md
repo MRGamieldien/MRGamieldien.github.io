@@ -86,7 +86,7 @@ Java • Java Swing • SQL • Object-Oriented Programming
 
 ## 🎥Mock Interview
 <p align="center">
-<video width="700" controls>
+<video width="400" controls>
   <source src="MockInterview of MRG.mp4" type="video/mp4">
 </video>
 </p>
