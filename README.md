@@ -82,4 +82,11 @@ Java • Java Swing • SQL • Object-Oriented Programming
 🔗 **GitHub Repository:**  
 [Student Enrolment Project](https://github.com/MRGamieldien/Student-Enrolment-Project.git)
 
----
+---  
+
+## 🎥Mock Interview
+<p align="center">
+<video width="700" controls>
+  <source src="MockInterview of MRG.mp4" type="video/mp4">
+</video>
+</p>
