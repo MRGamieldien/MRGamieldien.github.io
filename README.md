@@ -84,9 +84,46 @@ Java • Java Swing • SQL • Object-Oriented Programming
 
 ---  
 
+## References 
+### Bhadra Ranchod 
+
+Cape Peninsula University of Technology 
+
+📧 ranchodb@cput.ac.za 
+
+📞 Contact: 082 495 9912 
+
+### Richard Maliwatu 
+
+Cape Peninsula University of Technology 
+
+📧 maliwatur@cput.ac.za 
+
+📞 Contact: 071 077 9922
+
+---
+
 ## 🎥Mock Interview
 <p align="center">
 <video width="400" height="350" controls>
   <source src="MockInterview of MRG.mp4" type="video/mp4">
 </video>
 </p>
+
+---
+
+## My Reflection: CV
+
+While writing the README file, I have been exposed to the use of Markdown as a format for documenting my CV in an elegant manner. At first unfamiliar with the syntax, it was necessary for me to come up with a readable document which would effectively convey my CV’s details. In doing so, I have become proficient in using Markdown functionalities such as headings, lists, and text formatting. However, to improve the appearance and organization of my project, I have employed the practice of integrating HTML within Markdown by centering the contents and including embedded media in my document. Overall, I have organized the README into sections and added icons and badges to enhance its appearance and usability. By doing so, I have succeeded in creating an elegant document which effectively communicates my CV.
+
+---
+
+## My Reflection: Mock Interview
+
+During my mock interview, I answered four common questions about my career goals, how I handle stress, a conflict with a team member, and my work preference, which allowed me to evaluate my performance through a recorded video. My goal was to communicate clearly, confidently, and professionally while applying the STAR method and keeping my responses concise and natural. To achieve this, I prepared structured answers, practiced delivering them in a conversational tone, and focused on speaking clearly, maintaining good posture, and organizing my thoughts logically during the interview; I also reviewed the recording afterward to identify areas for improvement such as pacing, eye contact, and reducing filler words . As a result, I improved my confidence and ability to structure answers effectively, especially when explaining the conflict scenario, while also recognizing the need to sound less rehearsed and improve my body language, making the experience valuable preparation for real interviews.
+
+---
+
+## My Reflection: 
+
+While working on my CV, I used GitHub Pages to turn my repository into a live website so others could easily view my CV. At first, I wasn’t very familiar with how GitHub Pages works, so I had to figure out how to set everything up correctly and make sure my content displayed properly online. I organized my files, adjusted my Markdown and HTML, and tested the site a few times to fix layout and formatting issues. As I worked through it, I started to understand how everything connects, from the repository to the live site. In the end, I was able to successfully publish a working website that presents my project in a more professional and interactive way. This experience helped me understand how to deploy projects, improved my confidence in using GitHub, and showed me how important it is to present your work clearly, not just build it.
